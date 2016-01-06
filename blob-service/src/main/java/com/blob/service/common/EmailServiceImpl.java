@@ -1,4 +1,4 @@
-package com.blob.service;
+package com.blob.service.common;
 
 public class EmailServiceImpl implements IEmailService {
 
