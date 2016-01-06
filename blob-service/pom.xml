@@ -35,6 +35,11 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
+		<dependency>
 			<groupId>com.blob</groupId>
 			<artifactId>blob-core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
