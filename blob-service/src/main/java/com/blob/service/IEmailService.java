@@ -1,5 +1,5 @@
 package com.blob.service;
 
-public interface EmailService {
+public interface IEmailService {
 
 }

@@ -1,5 +1,5 @@
 package com.blob.service;
 
-public class EmailServiceImpl implements EmailService {
+public class EmailServiceImpl implements IEmailService {
 
 }

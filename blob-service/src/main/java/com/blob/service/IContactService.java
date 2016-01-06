@@ -1,6 +1,6 @@
 package com.blob.service;
 
-public interface ContactService {
+public interface IContactService {
 
 	Long getContactCount();
 	
